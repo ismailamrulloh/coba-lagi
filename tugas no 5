@@ -1,0 +1,14 @@
+<!doctype html>
+<html dir="ltr" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Daftar</title>
+  </head>
+  <body>
+    <ul>
+      <li>HTML</li>
+      <li>PHP</li>
+      <li>Ruby</li>
+    </ul>
+  </body>
+</html>
